@@ -43,5 +43,10 @@ DormHub is a **MERN stack web application** that helps students and tenants **ra
 ---
 
 ## 📁 Folder Structure
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         6/11/2025  11:49 PM                dorm-rating-app-backend       
+d-----         6/21/2025   7:06 PM                dorm-rating-app-frontend      
+-a----         6/21/2025   7:11 PM           3597 README.md
 
 
