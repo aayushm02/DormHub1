@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(to bottom, #f0f4f8, #e2e8f0);
+  font-family: 'Inter', sans-serif;
+}
+
+.carousel {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.slick-slide div {
+  padding: 10px;
+}
+
+.slick-prev:before, .slick-next:before {
+  color: #1e40af;
+}
+
+@layer components {
+  .btn {
+    @apply px-4 py-2 rounded-lg font-semibold transition duration-200;
+  }
+}
